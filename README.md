@@ -1,2 +1,2 @@
-# Yinix
-This is a discord bot in djs v14 named Yinix and is a one-guild bot. This bot is only to use for one specific discord server.
+# DJS v14 Template Modular Single Guild
+This is a discord bot wich only for one specific guild and cant be used for more then one guild.
